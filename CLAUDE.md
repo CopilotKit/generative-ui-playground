@@ -81,14 +81,9 @@ MCP_SERVER_URL=http://localhost:3001/mcp
 A2A_AGENT_URL=http://localhost:10002
 ```
 
-## Production URLs (Railway)
+## Hosted demo retirement
 
-Live deployment on Railway:
-- **Frontend**: https://frontend-production-456e.up.railway.app
-- **MCP Server**: https://mcp-server-production-5419.up.railway.app
-- **A2A Agent**: https://a2a-agent-production.up.railway.app
-
-Railway Project: `ui-protocols-demo`
+The legacy Railway frontend, MCP server, and A2A agent are being retired. Do not use the old production endpoints. Use the README setup for local development.
 
 ## Key Packages
 
